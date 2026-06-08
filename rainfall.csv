@@ -1,0 +1,1035 @@
+Region1,Region2,Year,Soybean_label,Rainfall
+chaco,9 de julio,2007,1.7,668.9
+santa fe,constitucion,2014,3.2,502.3
+entre rios,gualeguay,2009,1.43943,516.1
+santa fe,san martin,2015,4.02035,502.3
+santa fe,san cristobal,2011,2.47568,502.3
+santa fe,belgrano,2009,2.7063,502.3
+santa fe,general obligado,2012,0.76957,502.3
+santa fe,general lopez,2012,2.725,502.3
+buenos aires,roque perez,2007,3.48788,504.1
+buenos aires,navarro,2013,2.75714,504.1
+cordoba,rio primero,2014,2.91519,501.8
+cordoba,rio cuarto,2016,2.98491,501.8
+entre rios,gualeguaychu,2015,2.57523,516.1
+cordoba,rio segundo,2011,2.05925,501.8
+cordoba,rio primero,2012,1.97097,501.8
+santiago del estero,belgrano,2005,1.42177,422.6
+buenos aires,ramallo,2014,3.60053,504.1
+buenos aires,san pedro,2010,3.663,504.1
+buenos aires,carlos tejedor,2009,0.92951,504.1
+santiago del estero,alberdi,2009,1.1,422.6
+chaco,chacabuco,2006,2.41519,668.9
+santa fe,las colonias,2013,3.1641,502.3
+buenos aires,junin,2014,3.81429,504.1
+buenos aires,san pedro,2016,3.73149,504.1
+buenos aires,olavarria,2008,1.99116,504.1
+cordoba,santa maria,2012,2.39349,501.8
+santa fe,general obligado,2008,0.58374,502.3
+buenos aires,necochea,2005,1.89616,504.1
+cordoba,general roca,2006,2.50767,501.8
+cordoba,marcos juarez,2015,4.27785,501.8
+buenos aires,san andres de giles,2005,3.16374,504.1
+cordoba,ischilin,2015,3.18974,501.8
+buenos aires,general villegas,2011,2.38479,504.1
+buenos aires,san andres de giles,2010,3.2709,504.1
+buenos aires,pehuajo,2013,2.97511,504.1
+salta,rosario de la frontera,2012,1.4,542.1
+buenos aires,salto,2005,3.2232,504.1
+entre rios,concordia,2012,2.46596,516.1
+cordoba,rio primero,2010,2.70405,501.8
+cordoba,calamuchita,2008,2.69938,501.8
+buenos aires,general alvear,2015,2.40909,504.1
+buenos aires,olavarria,2016,2.37092,504.1
+santa fe,general lopez,2011,3.42896,502.3
+santa fe,vera,2011,1.93548,502.3
+buenos aires,baradero,2009,1.51118,504.1
+santiago del estero,general taboada,2005,1.32078,422.6
+cordoba,union,2007,3.27524,501.8
+buenos aires,lobos,2014,2.46437,504.1
+santa fe,san justo,2007,2.60741,502.3
+entre rios,gualeguaychu,2013,2.44118,516.1
+santiago del estero,alberdi,2006,2.32289,422.6
+buenos aires,junin,2005,3.21233,504.1
+buenos aires,florentino ameghino,2012,1.78073,504.1
+cordoba,rio seco,2016,3.3,501.8
+cordoba,general san martin,2014,3.3158,501.8
+buenos aires,ramallo,2005,3.24511,504.1
+cordoba,rio cuarto,2006,2.27967,501.8
+santa fe,la capital,2008,2.7449,502.3
+cordoba,rio seco,2009,0.99123,501.8
+buenos aires,alberti,2006,3.13352,504.1
+buenos aires,lincoln,2015,3.2814,504.1
+buenos aires,azul,2014,1.56689,504.1
+tucuman,burruyacu,2008,2.8,682.3
+buenos aires,arrecifes,2014,3.59407,504.1
+santiago del estero,general taboada,2008,1.52444,422.6
+santa fe,la capital,2005,2.61897,502.3
+buenos aires,trenque lauquen,2013,2.77393,504.1
+buenos aires,san cayetano,2013,1.55296,504.1
+la pampa,chapaleufu,2008,2.35053,355.6
+entre rios,tala,2014,2.55757,516.1
+buenos aires,carmen de areco,2016,3.78237,504.1
+buenos aires,carlos casares,2010,3.12261,504.1
+cordoba,presidente roque saenz pena,2008,2.35355,501.8
+buenos aires,san antonio de areco,2010,3.5429,504.1
+buenos aires,rojas,2014,4.16597,504.1
+buenos aires,san cayetano,2010,2.56413,504.1
+buenos aires,colon,2005,3.45058,504.1
+santiago del estero,juan f. ibarra,2009,0.7,422.6
+buenos aires,guamini,2012,3.16793,504.1
+buenos aires,zarate,2008,3.22797,504.1
+entre rios,parana,2009,1.09082,516.1
+salta,general jose de san martin,2007,2.6,542.1
+buenos aires,rivadavia,2012,3.05396,504.1
+buenos aires,san antonio de areco,2006,3.40222,504.1
+buenos aires,carlos casares,2005,3.67731,504.1
+salta,anta,2013,0.8,542.1
+santa fe,vera,2016,1.58366,502.3
+buenos aires,pergamino,2005,3.39748,504.1
+cordoba,general roca,2009,1.49992,501.8
+buenos aires,colon,2014,3.86959,504.1
+buenos aires,carlos casares,2011,2.05023,504.1
+buenos aires,junin,2013,3.54172,504.1
+chaco,comandante fernandez,2005,1.34876,668.9
+entre rios,federal,2011,2.51467,516.1
+santiago del estero,belgrano,2014,2.9,422.6
+cordoba,tercero arriba,2005,2.91171,501.8
+buenos aires,leandro n. alem,2006,3.26695,504.1
+santa fe,vera,2014,2.45385,502.3
+buenos aires,arrecifes,2006,3.60356,504.1
+buenos aires,capitan sarmiento,2006,3.45227,504.1
+buenos aires,azul,2007,2.14578,504.1
+cordoba,juarez celman,2009,1.91581,501.8
+la pampa,realico,2005,2.49137,355.6
+entre rios,victoria,2005,2.91753,516.1
+santa fe,rosario,2010,3.32156,502.3
+santa fe,san jeronimo,2008,3.45655,502.3
+buenos aires,zarate,2011,3.50441,504.1
+tucuman,leales,2012,1.5,682.3
+chaco,chacabuco,2007,2.1,668.9
+buenos aires,pehuajo,2011,2.10709,504.1
+entre rios,gualeguay,2013,2.6022,516.1
+santa fe,iriondo,2009,2.90482,502.3
+buenos aires,las flores,2009,1.06719,504.1
+tucuman,leales,2014,2.1,682.3
+chaco,comandante fernandez,2007,1.89007,668.9
+chaco,9 de julio,2015,1.9,668.9
+buenos aires,coronel suarez,2011,1.96845,504.1
+cordoba,ischilin,2013,0.9,501.8
+cordoba,presidente roque saenz pena,2016,3.57239,501.8
+santa fe,belgrano,2008,3.36751,502.3
+santa fe,vera,2005,1.56074,502.3
+santa fe,caseros,2011,3.63559,502.3
+entre rios,colon,2013,2.35152,516.1
+chaco,comandante fernandez,2011,2.1,668.9
+buenos aires,ramallo,2016,3.80554,504.1
+santa fe,9 de julio,2007,2.60988,502.3
+cordoba,tulumba,2005,1.67728,501.8
+santiago del estero,jimenez,2016,2.90001,422.6
+buenos aires,balcarce,2009,0.94579,504.1
+buenos aires,salto,2011,3.78722,504.1
+cordoba,juarez celman,2006,2.28048,501.8
+santiago del estero,juan f. ibarra,2006,2.00696,422.6
+buenos aires,capitan sarmiento,2013,3.45178,504.1
+santiago del estero,rivadavia,2016,2.3,422.6
+la pampa,realico,2007,2.08547,355.6
+entre rios,victoria,2009,1.14775,516.1
+santa fe,la capital,2012,2.62391,502.3
+la pampa,quemu quemu,2015,3.12091,355.6
+santa fe,san lorenzo,2006,3.06813,502.3
+buenos aires,general viamonte,2012,3.02632,504.1
+cordoba,totoral,2014,3,501.8
+salta,general jose de san martin,2012,1.5,542.1
+entre rios,colon,2014,2.3,516.1
+buenos aires,benito juarez,2012,2.11325,504.1
+chaco,9 de julio,2005,1.36457,668.9
+entre rios,victoria,2006,2.76243,516.1
+cordoba,tercero arriba,2009,3.0875,501.8
+cordoba,juarez celman,2005,2.84423,501.8
+buenos aires,tandil,2006,2.03654,504.1
+entre rios,tala,2006,2.12365,516.1
+entre rios,nogoya,2005,2.54249,516.1
+santa fe,constitucion,2010,3.74194,502.3
+buenos aires,9 de julio,2007,3.10434,504.1
+buenos aires,chivilcoy,2013,3.10398,504.1
+cordoba,general san martin,2011,2.33282,501.8
+buenos aires,tandil,2013,2.11604,504.1
+buenos aires,general alvear,2016,3.03125,504.1
+santa fe,vera,2006,1.85179,502.3
+la pampa,quemu quemu,2016,3.492,355.6
+santiago del estero,moreno,2011,2.45,422.6
+buenos aires,carlos tejedor,2014,2.22094,504.1
+santa fe,san lorenzo,2011,3.60433,502.3
+santa fe,la capital,2007,2.62813,502.3
+santa fe,vera,2015,2.44483,502.3
+buenos aires,rojas,2011,4.02731,504.1
+santa fe,san lorenzo,2013,3.65804,502.3
+buenos aires,coronel dorrego,2008,1.39955,504.1
+buenos aires,lobos,2015,2.92609,504.1
+buenos aires,zarate,2009,1.08906,504.1
+cordoba,santa maria,2011,1.98998,501.8
+cordoba,san justo,2015,3.55356,501.8
+buenos aires,colon,2016,4.04951,504.1
+cordoba,general san martin,2008,2.71505,501.8
+cordoba,san justo,2010,2.80663,501.8
+santa fe,general lopez,2014,2.86098,502.3
+buenos aires,salto,2006,3.59456,504.1
+santa fe,castellanos,2011,3.21263,502.3
+buenos aires,carmen de areco,2007,3.68316,504.1
+entre rios,diamante,2009,1.27285,516.1
+entre rios,tala,2016,1.71019,516.1
+cordoba,ischilin,2005,1.43545,501.8
+tucuman,burruyacu,2016,3.2,682.3
+santa fe,castellanos,2013,3.1186,502.3
+buenos aires,coronel suarez,2007,2.54118,504.1
+buenos aires,tres arroyos,2006,1.43711,504.1
+buenos aires,san nicolas,2008,3.26141,504.1
+entre rios,san salvador,2015,2.31818,516.1
+santa fe,san justo,2010,2.858,502.3
+cordoba,rio cuarto,2011,2.36604,501.8
+salta,anta,2015,2.6,542.1
+entre rios,nogoya,2007,2.46509,516.1
+buenos aires,general viamonte,2015,3.54654,504.1
+buenos aires,25 de mayo,2015,3.51333,504.1
+santa fe,san lorenzo,2010,3.62192,502.3
+buenos aires,daireaux,2009,1.38947,504.1
+cordoba,juarez celman,2011,2.355,501.8
+santiago del estero,juan f. ibarra,2013,1.7,422.6
+entre rios,colon,2008,2.14366,516.1
+tucuman,leales,2007,3.1,682.3
+santiago del estero,general taboada,2013,1.8,422.6
+santa fe,san justo,2005,2.35196,502.3
+buenos aires,adolfo alsina,2005,2.44922,504.1
+chaco,12 de octubre,2011,2.35,668.9
+buenos aires,tandil,2009,2.28939,504.1
+santa fe,la capital,2009,1.49221,502.3
+santa fe,castellanos,2005,2.40084,502.3
+buenos aires,rivadavia,2005,3.73071,504.1
+buenos aires,tandil,2014,1.72284,504.1
+la pampa,realico,2008,1.827,355.6
+buenos aires,lincoln,2013,2.84841,504.1
+buenos aires,monte,2012,2.52805,504.1
+santa fe,caseros,2016,3.35811,502.3
+entre rios,uruguay,2007,2.73582,516.1
+santa fe,belgrano,2012,3.31518,502.3
+cordoba,union,2014,3.36578,501.8
+buenos aires,baradero,2012,2.86667,504.1
+buenos aires,general pinto,2015,3.49408,504.1
+buenos aires,carmen de areco,2008,4.00416,504.1
+santa fe,san cristobal,2014,2.82632,502.3
+buenos aires,san antonio de areco,2009,1.38178,504.1
+buenos aires,balcarce,2010,2.35427,504.1
+tucuman,burruyacu,2011,3,682.3
+buenos aires,carmen de areco,2015,4.46376,504.1
+buenos aires,25 de mayo,2010,3.55882,504.1
+chaco,12 de octubre,2007,1.9,668.9
+buenos aires,pehuajo,2008,3.20435,504.1
+cordoba,tulumba,2010,1.30561,501.8
+buenos aires,coronel dorrego,2006,0.80691,504.1
+cordoba,rio segundo,2006,3.10587,501.8
+buenos aires,general alvear,2009,1.43529,504.1
+entre rios,la paz,2007,2.93411,516.1
+buenos aires,las flores,2016,3.4257,504.1
+santiago del estero,belgrano,2009,0.8,422.6
+entre rios,gualeguaychu,2014,2.55741,516.1
+santa fe,san cristobal,2006,1.83015,502.3
+buenos aires,florentino ameghino,2009,1.29262,504.1
+la pampa,maraco,2015,3.36953,355.6
+buenos aires,pehuajo,2009,1.05427,504.1
+buenos aires,benito juarez,2013,2.03698,504.1
+buenos aires,25 de mayo,2007,3.3194,504.1
+buenos aires,general arenales,2015,4.56895,504.1
+buenos aires,carlos tejedor,2007,2.85471,504.1
+santiago del estero,moreno,2010,3.7,422.6
+santiago del estero,rivadavia,2010,2.68,422.6
+cordoba,tulumba,2006,2.62823,501.8
+santiago del estero,general taboada,2010,3.57,422.6
+buenos aires,olavarria,2006,2.48714,504.1
+buenos aires,coronel suarez,2014,1.37193,504.1
+chaco,12 de octubre,2005,1.4263,668.9
+cordoba,san justo,2008,2.49498,501.8
+entre rios,san salvador,2016,1.8,516.1
+buenos aires,tandil,2015,2.11889,504.1
+buenos aires,tandil,2011,2.31365,504.1
+buenos aires,bragado,2015,3.87674,504.1
+buenos aires,lobos,2013,2.81277,504.1
+buenos aires,bolivar,2007,2.63333,504.1
+buenos aires,capitan sarmiento,2009,1.54154,504.1
+cordoba,rio cuarto,2009,1.92288,501.8
+buenos aires,navarro,2009,1.35188,504.1
+buenos aires,balcarce,2005,1.93137,504.1
+buenos aires,carlos casares,2012,3.2321,504.1
+santa fe,caseros,2015,4.28496,502.3
+buenos aires,carmen de areco,2009,1.36495,504.1
+buenos aires,necochea,2012,2.36449,504.1
+santiago del estero,rivadavia,2013,1.9,422.6
+cordoba,union,2008,3.15676,501.8
+entre rios,san salvador,2012,2.24231,516.1
+cordoba,rio seco,2006,2.61002,501.8
+buenos aires,florentino ameghino,2016,3.36719,504.1
+santa fe,san justo,2006,2.12454,502.3
+buenos aires,25 de mayo,2005,2.94608,504.1
+chaco,almirante brown,2012,0.81395,668.9
+santiago del estero,rivadavia,2009,0.6,422.6
+buenos aires,necochea,2016,2.1658,504.1
+cordoba,ischilin,2008,2.40449,501.8
+buenos aires,bolivar,2015,2.56667,504.1
+santiago del estero,jimenez,2007,2.95068,422.6
+chaco,12 de octubre,2010,2.36646,668.9
+buenos aires,leandro n. alem,2016,3.75258,504.1
+buenos aires,azul,2009,0.9627,504.1
+buenos aires,rivadavia,2014,2.93265,504.1
+buenos aires,saladillo,2015,3.40952,504.1
+buenos aires,arrecifes,2009,1.27429,504.1
+buenos aires,tandil,2016,2.37233,504.1
+cordoba,totoral,2006,2.73234,501.8
+buenos aires,pehuajo,2010,2.99519,504.1
+cordoba,calamuchita,2010,2.60426,501.8
+chaco,independencia,2006,2.37742,668.9
+santiago del estero,rivadavia,2012,1.5,422.6
+buenos aires,trenque lauquen,2010,2.8098,504.1
+santiago del estero,juan f. ibarra,2005,1.52462,422.6
+buenos aires,general pinto,2007,3.59994,504.1
+cordoba,ischilin,2016,2.8,501.8
+chaco,ohiggins,2006,2.2813,668.9
+buenos aires,carlos casares,2013,3.04431,504.1
+santa fe,general obligado,2009,0.35965,502.3
+buenos aires,colon,2009,2.3,504.1
+buenos aires,pergamino,2006,3.60345,504.1
+chaco,12 de octubre,2012,0.8604,668.9
+buenos aires,lincoln,2008,3.48626,504.1
+cordoba,general roca,2013,2.25075,501.8
+buenos aires,las flores,2005,3.31698,504.1
+buenos aires,benito juarez,2016,2.60098,504.1
+chaco,comandante fernandez,2006,1.94169,668.9
+buenos aires,necochea,2013,1.79262,504.1
+buenos aires,lincoln,2006,3.0469,504.1
+buenos aires,san nicolas,2005,3.26174,504.1
+buenos aires,loberia,2014,1.56899,504.1
+buenos aires,coronel dorrego,2013,1.44247,504.1
+buenos aires,alberti,2010,3.23077,504.1
+santiago del estero,moreno,2007,2.28903,422.6
+salta,rosario de la frontera,2013,0.9,542.1
+buenos aires,las flores,2015,2.41284,504.1
+buenos aires,baradero,2007,3.22474,504.1
+santa fe,belgrano,2006,3.18076,502.3
+cordoba,union,2016,3.76142,501.8
+buenos aires,bragado,2010,3.24437,504.1
+santa fe,san justo,2013,3,502.3
+cordoba,rio primero,2015,3.65441,501.8
+entre rios,concordia,2010,2.73913,516.1
+tucuman,leales,2009,2.6,682.3
+tucuman,leales,2006,3.00192,682.3
+santa fe,iriondo,2016,2.60219,502.3
+buenos aires,daireaux,2015,2.55615,504.1
+santa fe,9 de julio,2014,2.79091,502.3
+buenos aires,monte,2007,3.42581,504.1
+santiago del estero,pellegrini,2016,2.89999,422.6
+la pampa,maraco,2009,1.17429,355.6
+buenos aires,florentino ameghino,2010,3.1733,504.1
+la pampa,chapaleufu,2013,2.96119,355.6
+buenos aires,chacabuco,2006,3.67002,504.1
+chaco,almirante brown,2013,0.85,668.9
+cordoba,rio segundo,2007,3.01356,501.8
+la pampa,maraco,2013,2.44007,355.6
+buenos aires,san antonio de areco,2016,3.82209,504.1
+buenos aires,junin,2007,3.49509,504.1
+cordoba,rio segundo,2015,3.93286,501.8
+cordoba,tulumba,2009,0.99548,501.8
+buenos aires,bragado,2013,3.35543,504.1
+buenos aires,daireaux,2005,3.07392,504.1
+buenos aires,coronel suarez,2013,2.02148,504.1
+chaco,ohiggins,2015,1.7,668.9
+la pampa,quemu quemu,2010,1.94201,355.6
+salta,general jose de san martin,2006,2.74523,542.1
+salta,metan,2012,1.4,542.1
+buenos aires,rivadavia,2013,3.22676,504.1
+entre rios,uruguay,2010,2.39153,516.1
+buenos aires,san antonio de areco,2014,3.50127,504.1
+buenos aires,carlos tejedor,2012,3.00674,504.1
+buenos aires,general pinto,2016,3.42308,504.1
+buenos aires,salto,2015,4.4225,504.1
+la pampa,realico,2006,1.92578,355.6
+entre rios,gualeguay,2015,2.63026,516.1
+buenos aires,leandro n. alem,2012,2.78546,504.1
+santa fe,constitucion,2008,3.32772,502.3
+cordoba,totoral,2011,2.23118,501.8
+buenos aires,navarro,2008,2.48358,504.1
+buenos aires,salto,2012,3.29426,504.1
+santa fe,general lopez,2010,3.55408,502.3
+santiago del estero,general taboada,2007,2.4901,422.6
+buenos aires,roque perez,2014,2.47454,504.1
+la pampa,quemu quemu,2014,2.51015,355.6
+santiago del estero,jimenez,2012,1.2,422.6
+buenos aires,florentino ameghino,2015,3.18614,504.1
+entre rios,tala,2011,2.04642,516.1
+santa fe,constitucion,2007,3.62008,502.3
+buenos aires,chacabuco,2015,4.57253,504.1
+san luis,general pedernera,2009,2.2,420.1
+santa fe,constitucion,2013,3.55404,502.3
+buenos aires,25 de mayo,2014,2.55542,504.1
+cordoba,marcos juarez,2005,3.66807,501.8
+tucuman,burruyacu,2007,3.1,682.3
+buenos aires,general viamonte,2005,3.29171,504.1
+salta,metan,2009,2.4,542.1
+buenos aires,coronel suarez,2016,2.80316,504.1
+cordoba,san justo,2016,3.31674,501.8
+chaco,general belgrano,2009,1.1,668.9
+entre rios,san salvador,2006,1.156,516.1
+entre rios,san salvador,2005,2.12215,516.1
+chaco,independencia,2007,1.69223,668.9
+cordoba,general san martin,2012,1.44596,501.8
+santa fe,san lorenzo,2012,3.03636,502.3
+cordoba,general roca,2012,1.98958,501.8
+cordoba,tulumba,2016,3.08981,501.8
+buenos aires,alberti,2015,3.88468,504.1
+entre rios,nogoya,2008,2.19165,516.1
+buenos aires,olavarria,2007,2.22754,504.1
+buenos aires,coronel dorrego,2016,1.86776,504.1
+santa fe,san justo,2009,1.34535,502.3
+santa fe,caseros,2014,3.28924,502.3
+entre rios,tala,2007,2.46917,516.1
+santiago del estero,moreno,2013,1.7,422.6
+chaco,9 de julio,2010,2.85,668.9
+cordoba,colon,2008,2.55434,501.8
+buenos aires,coronel dorrego,2005,1.70581,504.1
+cordoba,calamuchita,2005,2.84391,501.8
+buenos aires,zarate,2014,3.50182,504.1
+la pampa,quemu quemu,2011,1.75316,355.6
+buenos aires,pergamino,2008,3.70074,504.1
+buenos aires,adolfo gonzales chaves,2012,1.89809,504.1
+salta,anta,2010,3,542.1
+buenos aires,azul,2005,2.03159,504.1
+santiago del estero,rivadavia,2015,2.4,422.6
+buenos aires,baradero,2013,3.08241,504.1
+santiago del estero,belgrano,2015,1.8,422.6
+santa fe,9 de julio,2013,1.7589,502.3
+buenos aires,guamini,2010,2.41724,504.1
+cordoba,juarez celman,2015,2.96744,501.8
+cordoba,ischilin,2009,1.19583,501.8
+buenos aires,saladillo,2016,3.38196,504.1
+santiago del estero,pellegrini,2006,2.32288,422.6
+cordoba,rio segundo,2010,2.19373,501.8
+san luis,general pedernera,2016,3.178,420.1
+chaco,chacabuco,2009,1.1,668.9
+buenos aires,san cayetano,2009,0.84053,504.1
+santiago del estero,jimenez,2014,2.7,422.6
+cordoba,santa maria,2008,2.35195,501.8
+buenos aires,general alvear,2010,2.52222,504.1
+chaco,chacabuco,2015,2,668.9
+cordoba,rio primero,2005,2.37304,501.8
+buenos aires,adolfo gonzales chaves,2009,0.66954,504.1
+cordoba,rio primero,2007,3.18864,501.8
+buenos aires,hipolito yrigoyen,2016,3.22727,504.1
+chaco,12 de octubre,2008,2.3991,668.9
+salta,rosario de la frontera,2014,2,542.1
+chaco,independencia,2012,0.7027,668.9
+cordoba,marcos juarez,2009,2.93295,501.8
+cordoba,rio seco,2012,2,501.8
+buenos aires,capitan sarmiento,2005,3.35864,504.1
+entre rios,colon,2005,2.30072,516.1
+entre rios,victoria,2010,2.9942,516.1
+cordoba,union,2013,3.70526,501.8
+santa fe,rosario,2008,3.31238,502.3
+buenos aires,leandro n. alem,2014,3.60273,504.1
+entre rios,parana,2011,2.6,516.1
+cordoba,calamuchita,2009,2.21957,501.8
+cordoba,calamuchita,2015,2.78647,501.8
+tucuman,burruyacu,2014,2,682.3
+buenos aires,general villegas,2010,3.03766,504.1
+buenos aires,chivilcoy,2011,3.47921,504.1
+santa fe,las colonias,2011,2.92844,502.3
+tucuman,burruyacu,2013,1.4,682.3
+buenos aires,loberia,2009,1.04063,504.1
+buenos aires,junin,2011,3.59973,504.1
+buenos aires,9 de julio,2012,2.68436,504.1
+buenos aires,necochea,2011,1.96315,504.1
+santa fe,rosario,2014,3.235,502.3
+chaco,general belgrano,2011,2.55001,668.9
+cordoba,rio seco,2007,2.84386,501.8
+santa fe,las colonias,2015,3.42511,502.3
+cordoba,rio cuarto,2008,2.81702,501.8
+entre rios,uruguay,2016,1.81119,516.1
+chaco,almirante brown,2006,2.49774,668.9
+santa fe,la capital,2015,2.94688,502.3
+tucuman,cruz alta,2014,2.1,682.3
+cordoba,union,2005,3.40372,501.8
+entre rios,victoria,2008,2.74617,516.1
+buenos aires,saladillo,2012,2.73333,504.1
+entre rios,colon,2010,2.53343,516.1
+entre rios,tala,2009,1.12656,516.1
+cordoba,totoral,2013,1.5,501.8
+buenos aires,saladillo,2006,3.07686,504.1
+chaco,general belgrano,2006,2.5944,668.9
+santa fe,san lorenzo,2014,3.2,502.3
+santa fe,vera,2009,0.36104,502.3
+buenos aires,loberia,2012,2.20935,504.1
+santa fe,san lorenzo,2007,3.34866,502.3
+chaco,2 de abril,2007,1.78896,668.9
+buenos aires,azul,2011,2.05478,504.1
+buenos aires,baradero,2005,2.90335,504.1
+chaco,ohiggins,2012,0.73263,668.9
+santa fe,las colonias,2010,3.35098,502.3
+buenos aires,bragado,2009,1.49187,504.1
+salta,anta,2012,1.05043,542.1
+buenos aires,guamini,2008,2.31938,504.1
+santa fe,general lopez,2009,2.62503,502.3
+chaco,independencia,2008,2.3991,668.9
+santiago del estero,moreno,2014,2.9,422.6
+chaco,chacabuco,2014,2.7,668.9
+buenos aires,san cayetano,2012,1.88465,504.1
+santa fe,san martin,2016,2.36534,502.3
+santa fe,constitucion,2016,3.32898,502.3
+cordoba,rio segundo,2016,3.39044,501.8
+salta,metan,2006,2.74524,542.1
+entre rios,tala,2012,2.30544,516.1
+buenos aires,navarro,2015,3.02581,504.1
+buenos aires,general pinto,2012,2.39434,504.1
+buenos aires,tandil,2010,2.77435,504.1
+chaco,2 de abril,2015,2.2,668.9
+cordoba,colon,2013,1.22521,501.8
+santa fe,9 de julio,2012,0.6,502.3
+buenos aires,guamini,2009,1.38947,504.1
+buenos aires,leandro n. alem,2007,3.72068,504.1
+tucuman,leales,2013,1.6,682.3
+la pampa,chapaleufu,2010,2.58691,355.6
+santiago del estero,general taboada,2006,2.21771,422.6
+tucuman,leales,2011,2.54999,682.3
+salta,rosario de la frontera,2011,2.87,542.1
+buenos aires,trenque lauquen,2007,2.22744,504.1
+buenos aires,necochea,2009,1.22244,504.1
+buenos aires,rojas,2016,4.19836,504.1
+salta,metan,2011,2.79,542.1
+santa fe,general lopez,2016,3.26457,502.3
+buenos aires,carlos tejedor,2016,3.55594,504.1
+entre rios,villaguay,2005,2.32123,516.1
+buenos aires,azul,2008,1.27171,504.1
+cordoba,ischilin,2006,2.32289,501.8
+buenos aires,hipolito yrigoyen,2005,3.18284,504.1
+buenos aires,general alvear,2011,2.36538,504.1
+buenos aires,general alvear,2013,1.736,504.1
+santiago del estero,juan f. ibarra,2008,1.22195,422.6
+buenos aires,general arenales,2009,2.13203,504.1
+la pampa,realico,2010,1.40811,355.6
+buenos aires,saladillo,2011,3.15822,504.1
+la pampa,realico,2014,1.58257,355.6
+la pampa,maraco,2008,2.16705,355.6
+buenos aires,daireaux,2016,3.32658,504.1
+cordoba,juarez celman,2007,2.95794,501.8
+santiago del estero,general taboada,2016,2.7,422.6
+cordoba,presidente roque saenz pena,2005,3.59589,501.8
+santa fe,caseros,2007,3.501,502.3
+santa fe,las colonias,2012,2.73452,502.3
+santa fe,iriondo,2010,3.38657,502.3
+salta,metan,2008,2.85814,542.1
+buenos aires,zarate,2010,3.58913,504.1
+buenos aires,9 de julio,2015,3.93848,504.1
+buenos aires,roque perez,2005,3.3286,504.1
+salta,general jose de san martin,2014,1.9,542.1
+buenos aires,alberti,2008,2.96558,504.1
+santa fe,san jeronimo,2013,3.33529,502.3
+la pampa,chapaleufu,2011,1.79093,355.6
+buenos aires,carlos tejedor,2010,3.01976,504.1
+santa fe,castellanos,2012,2.26071,502.3
+cordoba,santa maria,2006,2.17542,501.8
+buenos aires,chivilcoy,2005,2.75717,504.1
+buenos aires,san cayetano,2008,1.74514,504.1
+santiago del estero,general taboada,2015,2.3,422.6
+buenos aires,carmen de areco,2011,3.38831,504.1
+salta,rosario de la frontera,2005,1.21896,542.1
+san luis,general pedernera,2014,2.39848,420.1
+buenos aires,lincoln,2010,3.30835,504.1
+buenos aires,balcarce,2015,1.95041,504.1
+cordoba,ischilin,2007,2.98421,501.8
+buenos aires,olavarria,2012,2.5039,504.1
+chaco,independencia,2015,1.6,668.9
+buenos aires,general pinto,2006,3.53014,504.1
+entre rios,diamante,2007,3.15754,516.1
+buenos aires,chacabuco,2012,3.07536,504.1
+buenos aires,benito juarez,2006,2.02558,504.1
+entre rios,villaguay,2013,1.98605,516.1
+buenos aires,guamini,2016,3.6898,504.1
+buenos aires,zarate,2013,3.28192,504.1
+buenos aires,bolivar,2012,3.20126,504.1
+santa fe,general lopez,2015,4.1258,502.3
+santiago del estero,pellegrini,2009,2,422.6
+buenos aires,daireaux,2011,2.20515,504.1
+cordoba,ischilin,2010,1.5,501.8
+cordoba,rio cuarto,2012,1.77591,501.8
+salta,general jose de san martin,2008,2.75607,542.1
+cordoba,general san martin,2013,2.2,501.8
+santa fe,castellanos,2010,3.45712,502.3
+entre rios,san salvador,2013,2.08954,516.1
+santa fe,la capital,2013,2.79714,502.3
+buenos aires,colon,2006,3.66044,504.1
+chaco,independencia,2010,2.17033,668.9
+buenos aires,saladillo,2007,3.44405,504.1
+buenos aires,alberti,2012,2.86062,504.1
+santa fe,san justo,2014,2.87441,502.3
+buenos aires,ramallo,2011,3.56855,504.1
+buenos aires,general pinto,2009,1.26772,504.1
+buenos aires,chacabuco,2016,4.04965,504.1
+buenos aires,alberti,2009,0.6564,504.1
+entre rios,federal,2015,2.93475,516.1
+santa fe,san martin,2012,2.9936,502.3
+chaco,independencia,2016,1.4,668.9
+santa fe,rosario,2005,3.28552,502.3
+entre rios,concordia,2009,1.01619,516.1
+buenos aires,adolfo gonzales chaves,2008,1.46985,504.1
+santiago del estero,juan f. ibarra,2015,2.9,422.6
+santa fe,general lopez,2005,3.5552,502.3
+santa fe,san lorenzo,2008,3.55699,502.3
+buenos aires,general villegas,2005,3.35212,504.1
+entre rios,federal,2009,1.2,516.1
+buenos aires,colon,2007,3.69559,504.1
+buenos aires,lobos,2005,3.19727,504.1
+santa fe,vera,2008,1.00749,502.3
+buenos aires,olavarria,2014,1.84375,504.1
+chaco,ohiggins,2014,2.5,668.9
+entre rios,nogoya,2015,2.77066,516.1
+buenos aires,san nicolas,2010,3.69765,504.1
+la pampa,maraco,2005,2.9491,355.6
+buenos aires,general viamonte,2006,3.7466,504.1
+buenos aires,daireaux,2006,2.76308,504.1
+santiago del estero,general taboada,2011,1.9,422.6
+buenos aires,junin,2015,4.45207,504.1
+santa fe,constitucion,2006,2.86027,502.3
+entre rios,gualeguaychu,2007,2.59222,516.1
+santa fe,general lopez,2007,3.57874,502.3
+buenos aires,chivilcoy,2015,4.14835,504.1
+buenos aires,daireaux,2014,2.35593,504.1
+cordoba,calamuchita,2014,2.58841,501.8
+buenos aires,hipolito yrigoyen,2006,2.78123,504.1
+buenos aires,leandro n. alem,2013,3.29956,504.1
+chaco,independencia,2005,1.18722,668.9
+buenos aires,san nicolas,2015,4.30353,504.1
+salta,metan,2005,1.32053,542.1
+buenos aires,9 de julio,2009,1.245,504.1
+chaco,independencia,2013,1.3,668.9
+cordoba,union,2012,2.31246,501.8
+buenos aires,zarate,2006,3.10133,504.1
+santa fe,rosario,2012,2.67963,502.3
+entre rios,concordia,2014,2.38235,516.1
+entre rios,uruguay,2005,2.50319,516.1
+entre rios,gualeguaychu,2010,2.73161,516.1
+buenos aires,roque perez,2010,3.64431,504.1
+entre rios,colon,2011,2.10476,516.1
+buenos aires,zarate,2015,4.32924,504.1
+buenos aires,chivilcoy,2008,2.80053,504.1
+buenos aires,25 de mayo,2011,2.98247,504.1
+chaco,comandante fernandez,2008,2.39767,668.9
+santa fe,general lopez,2013,3.68677,502.3
+buenos aires,lobos,2016,3.33333,504.1
+buenos aires,balcarce,2008,1.56783,504.1
+santiago del estero,juan f. ibarra,2010,3.67,422.6
+buenos aires,san cayetano,2016,2.04824,504.1
+la pampa,maraco,2006,2.16537,355.6
+buenos aires,guamini,2014,1.94647,504.1
+cordoba,tulumba,2012,1.2,501.8
+buenos aires,lobos,2011,3.06472,504.1
+buenos aires,tandil,2008,1.82745,504.1
+santa fe,9 de julio,2011,1.93333,502.3
+buenos aires,alberti,2005,3.02248,504.1
+cordoba,rio cuarto,2010,1.49142,501.8
+chaco,ohiggins,2011,2.3,668.9
+buenos aires,general villegas,2007,3.56949,504.1
+tucuman,cruz alta,2015,2.3,682.3
+buenos aires,coronel dorrego,2010,2.23497,504.1
+buenos aires,florentino ameghino,2014,2.80367,504.1
+buenos aires,9 de julio,2008,3.1187,504.1
+buenos aires,alberti,2013,3.12728,504.1
+santiago del estero,jimenez,2013,1,422.6
+salta,general jose de san martin,2016,1.79999,542.1
+buenos aires,leandro n. alem,2010,3.48957,504.1
+buenos aires,baradero,2015,4.47903,504.1
+buenos aires,pehuajo,2006,3.02671,504.1
+santiago del estero,general taboada,2012,1,422.6
+buenos aires,25 de mayo,2009,1.16186,504.1
+cordoba,rio seco,2014,3,501.8
+buenos aires,adolfo alsina,2010,1.36364,504.1
+buenos aires,pergamino,2016,4.14292,504.1
+santa fe,rosario,2016,3.13174,502.3
+entre rios,parana,2014,2.89816,516.1
+buenos aires,saladillo,2010,3.5431,504.1
+santa fe,caseros,2009,2.50444,502.3
+chaco,2 de abril,2006,2.60464,668.9
+buenos aires,florentino ameghino,2005,3.29741,504.1
+salta,rosario de la frontera,2015,2.6,542.1
+buenos aires,arrecifes,2016,3.70618,504.1
+buenos aires,florentino ameghino,2007,3.21347,504.1
+santiago del estero,pellegrini,2014,3,422.6
+buenos aires,necochea,2007,1.80968,504.1
+buenos aires,daireaux,2013,2.31053,504.1
+buenos aires,chivilcoy,2009,0.96143,504.1
+cordoba,juarez celman,2010,2.07778,501.8
+chaco,chacabuco,2013,1.7,668.9
+buenos aires,adolfo gonzales chaves,2013,1.49801,504.1
+buenos aires,capitan sarmiento,2012,3.02337,504.1
+chaco,comandante fernandez,2014,2.25,668.9
+cordoba,santa maria,2010,1.9975,501.8
+buenos aires,san andres de giles,2007,3.60117,504.1
+cordoba,marcos juarez,2011,3.24928,501.8
+la pampa,quemu quemu,2007,2.23125,355.6
+buenos aires,adolfo gonzales chaves,2010,2.27645,504.1
+santiago del estero,pellegrini,2005,1.42214,422.6
+buenos aires,san antonio de areco,2008,3.18501,504.1
+buenos aires,chacabuco,2005,3.5454,504.1
+buenos aires,monte,2009,1.21035,504.1
+la pampa,quemu quemu,2006,2.03175,355.6
+buenos aires,san pedro,2013,3.37101,504.1
+buenos aires,san antonio de areco,2007,3.33526,504.1
+buenos aires,arrecifes,2011,3.44187,504.1
+buenos aires,arrecifes,2008,3.11312,504.1
+entre rios,parana,2013,2.8492,516.1
+buenos aires,san pedro,2008,3.0095,504.1
+cordoba,calamuchita,2011,2.42447,501.8
+santiago del estero,belgrano,2012,0.9,422.6
+santa fe,castellanos,2016,2.17193,502.3
+buenos aires,san pedro,2006,3.24299,504.1
+buenos aires,adolfo alsina,2007,1.38571,504.1
+cordoba,san justo,2007,3.12769,501.8
+chaco,almirante brown,2011,2.5,668.9
+santiago del estero,jimenez,2005,1.42233,422.6
+chaco,chacabuco,2008,2.3991,668.9
+buenos aires,adolfo alsina,2016,2.94353,504.1
+santa fe,vera,2013,2.34667,502.3
+santa fe,belgrano,2005,3.36993,502.3
+buenos aires,carmen de areco,2014,4.11463,504.1
+buenos aires,coronel suarez,2012,2.04574,504.1
+buenos aires,chacabuco,2014,4.23219,504.1
+santiago del estero,juan f. ibarra,2016,2.6,422.6
+entre rios,colon,2009,0.92034,516.1
+cordoba,calamuchita,2006,2.26044,501.8
+san luis,general pedernera,2012,1.7,420.1
+buenos aires,chacabuco,2011,3.83478,504.1
+buenos aires,junin,2012,2.97211,504.1
+buenos aires,coronel suarez,2006,1.85286,504.1
+santiago del estero,belgrano,2007,2.42174,422.6
+santa fe,la capital,2006,2.35961,502.3
+santiago del estero,juan f. ibarra,2012,0.9,422.6
+buenos aires,hipolito yrigoyen,2010,3,504.1
+buenos aires,capitan sarmiento,2008,3.02309,504.1
+buenos aires,san pedro,2005,3.05861,504.1
+santiago del estero,alberdi,2014,2.9,422.6
+entre rios,tala,2010,2.30376,516.1
+cordoba,marcos juarez,2012,2.70906,501.8
+buenos aires,carlos casares,2016,3.57061,504.1
+buenos aires,general pinto,2010,3.22784,504.1
+buenos aires,san andres de giles,2011,3.26506,504.1
+santa fe,san jeronimo,2006,2.58171,502.3
+buenos aires,rojas,2007,3.76056,504.1
+entre rios,victoria,2011,2.60711,516.1
+buenos aires,roque perez,2015,3.1451,504.1
+buenos aires,adolfo alsina,2014,0.98462,504.1
+buenos aires,balcarce,2011,1.97601,504.1
+buenos aires,9 de julio,2010,3.32442,504.1
+buenos aires,loberia,2007,1.9711,504.1
+entre rios,concordia,2013,2.55556,516.1
+buenos aires,san antonio de areco,2005,3.30218,504.1
+buenos aires,san nicolas,2011,3.60523,504.1
+salta,rosario de la frontera,2007,2.8,542.1
+buenos aires,leandro n. alem,2011,3.28427,504.1
+la pampa,maraco,2014,2.73301,355.6
+buenos aires,chivilcoy,2014,3.69178,504.1
+chaco,ohiggins,2009,1,668.9
+santiago del estero,rivadavia,2007,2.3,422.6
+buenos aires,hipolito yrigoyen,2009,1.62,504.1
+buenos aires,carmen de areco,2013,3.63503,504.1
+buenos aires,pehuajo,2014,2.25852,504.1
+santiago del estero,pellegrini,2015,2.4,422.6
+cordoba,general roca,2005,3.30349,501.8
+santa fe,las colonias,2014,3.13739,502.3
+buenos aires,salto,2010,3.91727,504.1
+santa fe,san jeronimo,2014,3.34053,502.3
+santa fe,9 de julio,2008,1.7426,502.3
+chaco,ohiggins,2013,1.65,668.9
+buenos aires,hipolito yrigoyen,2014,2.30435,504.1
+entre rios,diamante,2015,3.1666,516.1
+santa fe,iriondo,2014,3.24972,502.3
+buenos aires,lincoln,2005,3.16535,504.1
+buenos aires,general arenales,2014,4.10662,504.1
+la pampa,quemu quemu,2012,2.55621,355.6
+buenos aires,san cayetano,2011,1.4527,504.1
+buenos aires,guamini,2006,1.98793,504.1
+santa fe,iriondo,2013,3.50777,502.3
+buenos aires,tres arroyos,2011,1.69352,504.1
+buenos aires,carlos tejedor,2011,2.11128,504.1
+buenos aires,san nicolas,2013,3.36798,504.1
+buenos aires,loberia,2013,1.91754,504.1
+cordoba,colon,2009,1.98997,501.8
+santiago del estero,moreno,2016,2.6,422.6
+cordoba,santa maria,2014,2.4,501.8
+buenos aires,pergamino,2014,4.00954,504.1
+chaco,almirante brown,2008,2.39911,668.9
+san luis,general pedernera,2013,1.69684,420.1
+cordoba,rio seco,2005,1.39119,501.8
+buenos aires,san cayetano,2014,1.38731,504.1
+buenos aires,saladillo,2014,2.57904,504.1
+buenos aires,adolfo alsina,2011,1.37857,504.1
+entre rios,diamante,2005,2.64107,516.1
+santiago del estero,jimenez,2010,3.76024,422.6
+buenos aires,general arenales,2013,4.1822,504.1
+buenos aires,balcarce,2006,1.71431,504.1
+cordoba,santa maria,2015,3.66047,501.8
+salta,general jose de san martin,2010,2.6,542.1
+buenos aires,general villegas,2008,3.14598,504.1
+entre rios,diamante,2011,2.49778,516.1
+buenos aires,loberia,2011,1.93729,504.1
+chaco,9 de julio,2014,2.8,668.9
+buenos aires,junin,2008,3.78269,504.1
+santiago del estero,moreno,2006,2.20739,422.6
+buenos aires,monte,2006,3.27757,504.1
+cordoba,general roca,2014,2.73906,501.8
+entre rios,la paz,2013,2.71221,516.1
+buenos aires,capitan sarmiento,2007,3.42303,504.1
+salta,metan,2007,2.8,542.1
+chaco,2 de abril,2008,2.39911,668.9
+entre rios,gualeguay,2007,2.68395,516.1
+santa fe,las colonias,2007,2.93155,502.3
+buenos aires,lincoln,2016,3.51868,504.1
+buenos aires,tres arroyos,2010,2.43918,504.1
+cordoba,rio primero,2008,2.31402,501.8
+santa fe,caseros,2008,3.73337,502.3
+santiago del estero,juan f. ibarra,2014,2.5,422.6
+buenos aires,san pedro,2007,3.27393,504.1
+entre rios,parana,2006,2.01,516.1
+entre rios,nogoya,2009,1.00721,516.1
+buenos aires,general arenales,2012,3.27511,504.1
+buenos aires,trenque lauquen,2006,2.92515,504.1
+cordoba,rio cuarto,2013,2.16966,501.8
+santa fe,rosario,2013,3.17119,502.3
+buenos aires,baradero,2011,3.20583,504.1
+buenos aires,san pedro,2015,4.31406,504.1
+santa fe,castellanos,2007,3.13959,502.3
+buenos aires,lincoln,2014,3.08259,504.1
+buenos aires,chivilcoy,2016,3.74199,504.1
+santa fe,9 de julio,2009,0.55624,502.3
+buenos aires,ramallo,2010,3.65142,504.1
+buenos aires,las flores,2012,2.55249,504.1
+salta,metan,2014,1.70001,542.1
+la pampa,chapaleufu,2009,1.37961,355.6
+buenos aires,roque perez,2011,3.07643,504.1
+la pampa,quemu quemu,2013,1.94775,355.6
+entre rios,san salvador,2011,2.68608,516.1
+santa fe,vera,2007,2.36879,502.3
+salta,anta,2006,2.95641,542.1
+chaco,general belgrano,2015,2.3,668.9
+buenos aires,saladillo,2005,3.23528,504.1
+la pampa,realico,2012,2.53138,355.6
+buenos aires,capitan sarmiento,2011,3.71847,504.1
+cordoba,marcos juarez,2013,4.01235,501.8
+tucuman,cruz alta,2010,2.7,682.3
+buenos aires,general arenales,2006,3.30836,504.1
+cordoba,colon,2011,2.05667,501.8
+la pampa,chapaleufu,2005,3.09531,355.6
+buenos aires,carlos tejedor,2006,2.82591,504.1
+santa fe,belgrano,2014,3.35821,502.3
+buenos aires,guamini,2007,1.88947,504.1
+cordoba,tercero arriba,2013,2.29166,501.8
+buenos aires,monte,2008,2.53247,504.1
+buenos aires,general alvear,2005,2.97229,504.1
+santiago del estero,jimenez,2006,2.53406,422.6
+buenos aires,florentino ameghino,2013,2.50805,504.1
+buenos aires,colon,2012,3.51564,504.1
+tucuman,cruz alta,2006,3.00301,682.3
+cordoba,ischilin,2011,1,501.8
+salta,anta,2014,1.8,542.1
+buenos aires,arrecifes,2013,3.37651,504.1
+buenos aires,adolfo gonzales chaves,2011,1.40043,504.1
+buenos aires,bragado,2011,2.8789,504.1
+buenos aires,coronel dorrego,2011,1.46316,504.1
+buenos aires,guamini,2011,1.95161,504.1
+buenos aires,trenque lauquen,2014,2.19066,504.1
+buenos aires,rojas,2009,1.48845,504.1
+cordoba,santa maria,2013,2.19907,501.8
+buenos aires,las flores,2007,3.5,504.1
+buenos aires,bragado,2005,3.09356,504.1
+buenos aires,azul,2016,2.3295,504.1
+buenos aires,general viamonte,2008,3.66579,504.1
+buenos aires,hipolito yrigoyen,2008,2.61159,504.1
+cordoba,general roca,2015,3.33932,501.8
+entre rios,concordia,2015,2.76209,516.1
+santa fe,iriondo,2015,4.19819,502.3
+santa fe,san cristobal,2010,3,502.3
+cordoba,rio cuarto,2015,2.82891,501.8
+chaco,almirante brown,2010,2.78783,668.9
+cordoba,tulumba,2014,2.50635,501.8
+salta,anta,2016,2.2,542.1
+buenos aires,san andres de giles,2016,3.82527,504.1
+buenos aires,chivilcoy,2012,3.09381,504.1
+buenos aires,rojas,2010,3.62306,504.1
+santa fe,las colonias,2016,2.16609,502.3
+santiago del estero,pellegrini,2013,1.2,422.6
+cordoba,rio cuarto,2005,2.84422,501.8
+entre rios,la paz,2012,2.53058,516.1
+cordoba,juarez celman,2013,2.47399,501.8
+salta,anta,2005,1.72685,542.1
+cordoba,san justo,2005,1.95032,501.8
+buenos aires,adolfo alsina,2015,1.76585,504.1
+cordoba,rio primero,2011,2.01279,501.8
+buenos aires,coronel dorrego,2007,1.05314,504.1
+buenos aires,general arenales,2011,3.86986,504.1
+entre rios,gualeguaychu,2011,2.41269,516.1
+entre rios,villaguay,2012,2.20538,516.1
+cordoba,union,2006,2.79159,501.8
+entre rios,san salvador,2014,2.3,516.1
+buenos aires,salto,2008,3.67056,504.1
+santiago del estero,belgrano,2006,2.36719,422.6
+santa fe,san lorenzo,2015,4.17418,502.3
+buenos aires,arrecifes,2010,3.6279,504.1
+buenos aires,pergamino,2011,3.79361,504.1
+buenos aires,adolfo gonzales chaves,2007,1.52992,504.1
+chaco,chacabuco,2005,1.40179,668.9
+santa fe,rosario,2006,2.59007,502.3
+cordoba,totoral,2009,1.68175,501.8
+buenos aires,chacabuco,2010,3.62333,504.1
+santa fe,san lorenzo,2009,1.82662,502.3
+buenos aires,salto,2009,2.0661,504.1
+cordoba,tercero arriba,2016,3.26671,501.8
+entre rios,gualeguay,2006,2.59904,516.1
+cordoba,general san martin,2007,2.86905,501.8
+buenos aires,junin,2006,3.08989,504.1
+buenos aires,navarro,2012,2.72558,504.1
+entre rios,uruguay,2011,2.53015,516.1
+buenos aires,navarro,2006,3.34028,504.1
+buenos aires,pergamino,2012,3.36269,504.1
+santiago del estero,moreno,2012,1.2,422.6
+buenos aires,daireaux,2010,2.71429,504.1
+buenos aires,rivadavia,2008,3.1618,504.1
+buenos aires,25 de mayo,2008,2.46678,504.1
+entre rios,tala,2015,2.37437,516.1
+buenos aires,pehuajo,2012,3.05603,504.1
+buenos aires,benito juarez,2011,2.0772,504.1
+santa fe,iriondo,2011,3.09554,502.3
+buenos aires,carmen de areco,2010,3.54415,504.1
+chaco,12 de octubre,2009,1.3,668.9
+santiago del estero,pellegrini,2007,2.7375,422.6
+buenos aires,lobos,2006,3.19551,504.1
+buenos aires,ramallo,2008,3.27805,504.1
+buenos aires,roque perez,2008,2.48502,504.1
+santa fe,constitucion,2012,2.84312,502.3
+buenos aires,bragado,2006,3.21942,504.1
+salta,general jose de san martin,2011,2.77,542.1
+santa fe,la capital,2016,2.18776,502.3
+buenos aires,junin,2016,3.86805,504.1
+entre rios,la paz,2006,2.26706,516.1
+buenos aires,loberia,2016,2.26635,504.1
+santiago del estero,belgrano,2008,1.52401,422.6
+santa fe,san jeronimo,2012,2.95775,502.3
+santiago del estero,pellegrini,2010,3.5,422.6
+buenos aires,necochea,2015,2.18388,504.1
+san luis,general pedernera,2011,2.22361,420.1
+chaco,2 de abril,2013,1.2,668.9
+santa fe,castellanos,2009,2.35926,502.3
+chaco,12 de octubre,2014,2.4,668.9
+cordoba,juarez celman,2008,2.80101,501.8
+buenos aires,san pedro,2014,3.58557,504.1
+la pampa,chapaleufu,2016,3.96476,355.6
+buenos aires,general alvear,2007,2.80385,504.1
+buenos aires,hipolito yrigoyen,2007,2.58889,504.1
+entre rios,gualeguay,2008,2.31262,516.1
+entre rios,gualeguay,2014,2.70461,516.1
+entre rios,gualeguaychu,2016,1.83281,516.1
+buenos aires,salto,2014,4.05188,504.1
+buenos aires,rivadavia,2011,1.77294,504.1
+buenos aires,general villegas,2015,3.14168,504.1
+cordoba,colon,2016,3.45071,501.8
+buenos aires,lincoln,2009,1.62227,504.1
+buenos aires,carlos casares,2009,1.0966,504.1
+buenos aires,pehuajo,2015,2.27895,504.1
+cordoba,general san martin,2006,2.26055,501.8
+buenos aires,san andres de giles,2006,3.15177,504.1
+cordoba,totoral,2007,3.28939,501.8
+chaco,independencia,2011,2.3,668.9
+la pampa,maraco,2016,3.94855,355.6
+entre rios,gualeguaychu,2012,2.30757,516.1
+buenos aires,saladillo,2013,2.91163,504.1
+entre rios,gualeguaychu,2008,1.99744,516.1
+buenos aires,general pinto,2008,3.34433,504.1
+santa fe,caseros,2012,3.24133,502.3
+buenos aires,las flores,2008,2.55065,504.1
+chaco,9 de julio,2008,2.3991,668.9
+buenos aires,carlos tejedor,2005,3.53956,504.1
+buenos aires,rivadavia,2009,1.06531,504.1
+cordoba,juarez celman,2016,3.22789,501.8
+buenos aires,bolivar,2011,2.45294,504.1
+chaco,general belgrano,2013,1.45,668.9
+cordoba,tulumba,2013,1,501.8
+buenos aires,9 de julio,2013,3.5848,504.1
+santa fe,castellanos,2015,3.31736,502.3
+buenos aires,pergamino,2013,3.71002,504.1
+buenos aires,bolivar,2005,3.18215,504.1
+buenos aires,arrecifes,2015,4.08039,504.1
+buenos aires,9 de julio,2011,2.76951,504.1
+chaco,comandante fernandez,2010,1.75868,668.9
+entre rios,concordia,2016,1.976,516.1
+buenos aires,rojas,2015,4.76381,504.1
+buenos aires,rojas,2008,4.21295,504.1
+buenos aires,navarro,2005,3.26381,504.1
+buenos aires,monte,2013,2.88378,504.1
+buenos aires,azul,2013,1.85031,504.1
+entre rios,gualeguaychu,2005,2.25744,516.1
+salta,metan,2013,0.9,542.1
+san luis,general pedernera,2007,1.8,420.1
+buenos aires,azul,2015,2.0323,504.1
+santa fe,belgrano,2015,4.00394,502.3
+cordoba,tercero arriba,2008,2.6277,501.8
+buenos aires,chacabuco,2007,3.7737,504.1
+buenos aires,adolfo gonzales chaves,2015,2.08293,504.1
+buenos aires,general pinto,2013,3.04988,504.1
+entre rios,gualeguay,2005,2.65407,516.1
+cordoba,presidente roque saenz pena,2011,2.55827,501.8
+buenos aires,general alvear,2008,2.61593,504.1
+santiago del estero,pellegrini,2008,3.05488,422.6
+buenos aires,san cayetano,2005,1.93002,504.1
+buenos aires,baradero,2014,3.50736,504.1
+chaco,almirante brown,2015,2.6,668.9
+chaco,2 de abril,2016,2.1,668.9
+cordoba,san justo,2013,2.50496,501.8
+buenos aires,carlos tejedor,2015,2.12167,504.1
+buenos aires,general pinto,2011,2.74615,504.1
+buenos aires,bolivar,2014,2.34892,504.1
+santiago del estero,juan f. ibarra,2011,2,422.6
+la pampa,maraco,2011,1.78923,355.6
+buenos aires,general viamonte,2011,3.07664,504.1
+buenos aires,leandro n. alem,2009,1.77531,504.1
+buenos aires,tres arroyos,2016,2.0117,504.1
+buenos aires,olavarria,2011,2.41031,504.1
+entre rios,tala,2008,2.112,516.1
+entre rios,uruguay,2009,1.4206,516.1
+buenos aires,san andres de giles,2012,2.58,504.1
+cordoba,tercero arriba,2012,1.94217,501.8
+santiago del estero,alberdi,2010,4.05,422.6
+buenos aires,chivilcoy,2007,2.95179,504.1
+cordoba,rio segundo,2005,2.67039,501.8
+cordoba,colon,2014,3.20254,501.8
+buenos aires,tres arroyos,2013,2.00901,504.1
+la pampa,realico,2013,1.38303,355.6
+tucuman,cruz alta,2013,1.5,682.3
+buenos aires,zarate,2012,2.89629,504.1
+buenos aires,tandil,2005,2.08201,504.1
+entre rios,diamante,2006,2.18975,516.1
+buenos aires,general viamonte,2014,3.44816,504.1
+tucuman,leales,2015,2.2,682.3
+entre rios,la paz,2008,2.75654,516.1
+buenos aires,san cayetano,2015,1.42004,504.1
+buenos aires,arrecifes,2005,3.32025,504.1
+buenos aires,las flores,2011,3.01355,504.1
+buenos aires,colon,2008,3.90277,504.1
+buenos aires,capitan sarmiento,2015,4.22216,504.1
+tucuman,cruz alta,2011,3,682.3
+buenos aires,9 de julio,2016,4.22884,504.1
+entre rios,nogoya,2013,2.16811,516.1
+la pampa,quemu quemu,2005,2.6765,355.6
+buenos aires,leandro n. alem,2015,3.57805,504.1
+buenos aires,ramallo,2009,1.33005,504.1
+buenos aires,san antonio de areco,2011,3.64565,504.1
+buenos aires,tandil,2007,1.51107,504.1
+buenos aires,trenque lauquen,2015,2.35198,504.1
+santa fe,constitucion,2011,3.65174,502.3
+tucuman,cruz alta,2008,2.8,682.3
+santa fe,san martin,2008,3.74374,502.3
+cordoba,general roca,2011,2.07963,501.8
+buenos aires,pergamino,2007,3.53578,504.1
+santa fe,san cristobal,2015,2.95254,502.3
